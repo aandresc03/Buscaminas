@@ -6,7 +6,7 @@ Programa en Java que simula el juego del [Buscaminas](https://es.wikipedia.org/w
 
 https://youtu.be/yo8GOIH81Hs
 
-https://youtu.be/yo8GOIH81Hs
+https://youtu.be/PRXEKkcxrdI
 
 **Dependencias**: Libreria ACM de Java
 
